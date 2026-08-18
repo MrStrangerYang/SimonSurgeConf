@@ -6,3 +6,10 @@ payload:
   - DOMAIN-SUFFIX,injections.adguard.org
   - DOMAIN-SUFFIX,app-monitor.ele.me
   - DOMAIN-KEYWORD,oracle
+  - DOMAIN-SUFFIX,advancedsystemcare.cn
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,pttime.org
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,clngaa.com
+  - DOMAIN-SUFFIX,ap-northeast-1.amazonaws.com

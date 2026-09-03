@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,clngaa.com
   - DOMAIN-SUFFIX,ap-northeast-1.amazonaws.com
+  - DOMAIN-SUFFIX,emclient.com
